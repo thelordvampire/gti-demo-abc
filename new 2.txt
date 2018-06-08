@@ -1,0 +1,75 @@
+Phần 1:
+Bài 71: Thiết lập web server IIS Asp.net MSSQL (Phần 1)
+Bài 72: Thiết lập web server IIS Asp.net MSSQL (Phần 2)
+Bài 73: Thiết lập web server IIS Asp.net MSSQL (Phần 3)
+Bài 74: Thiết lập web server IIS Asp.net MSSQL (Phần 4)
+Bài 75: Thiết lập web server IIS Asp.net MSSQL (Phần 5)
+Bài 76: Thiết lập web server IIS Asp.net MSSQL: Thực hành (Phần 1)
+Bài 77:  Thiết lập web server IIS Asp.net MSSQL: Thực hành (Phần 2)
+Giới thiệu
+Phần 6:
+Bài 1: Giới thiệu khóa học
+
+Phần 2:
+Bài 50: Sniffer Clear Text Password (Phần 1)
+Bài 51: Sniffer Clear Text Password (Phần 2)
+Bài 52: Sniffer Clear Text Password (Phần 3)
+Bài 53: Sniffer DHCP (Phần 1)
+Bài 54:   Sniffer DHCP (Phần 2)
+Bài 55: Sniffer MD5 Password (Phần 1)
+Bài 56: Sniffer MD5 Password (Phần 2)
+Bài 57:  Sniffer SSLSTrip (Phần 1)
+Bài 58: Sniffer SSLSTrip (Phần 2)
+Thiết Lập Sơ Đồ
+Các kỹ thuật tấn công ứng dụng web
+Bài 2: Giới thiệu tổng quan sơ đồ    
+Bài 3: Thiết lập sơ đồ và thực hành cấu hình Kali Linux cơ bản (Phần 1) 
+Bài 4:  Thiết lập sơ đồ và thực hành cấu hình Kali Linux cơ bản (Phần 2) 
+Bài 5:  Thiết lập sơ đồ và thực hành cấu hình Kali Linux cơ bản (Phần 3)
+Bài 6: Thực hành thiết lập sơ đồ lab (Phần 1)
+Bài 7: Thực hành thiết lập sơ đồ lab (Phần 2)
+Bài 8: Hướng dẫn sử dụng VI/VIM
+Bài 9: Ví dụ kết nối các máy ảo
+Bài 10: Tổng kết chương
+
+
+Phần 8:
+Phần 5:
+Bài 40: Tổng quan Trojan Backdoor
+Bài 41: Trojan Backdoor Netcat (Phần 1)
+Bài 42: Trojan Backdoor Netcat (Phần 2)
+Bài 43: Trojan Backdoor Netcat (Phần 3)
+Bài 44: Trojan Backdoor MSFVENOM (Phần 1)
+Bài 45:  Trojan Backdoor MSFVENOM (Phần 2)
+Bài 46: Trojan Backdoor ShellCodeEXec (Phần 1)
+Bài 47: Trojan Backdoor ShellCodeEXec (Phần 2)
+Bài 48: Trojan Backdoor ShellCodeEXec (Phần 3)
+Bài 49:  Tổng kết chương
+Phần 4:
+System Hacking
+Sniffer
+Bài 30: Tổng quan System Hacking
+Bài 31: Password Attack
+Bài 32: Password Attack Cround
+Bài 33: Khai thác mã lỗi MS08-067 (Phần 1)
+Bài 34: Khai thác mã lỗi MS08-067 (Phần 2)
+Bài 35: System Hacking khai thác mã lỗi MS10-046 (Phần 1)
+Bài 36:  System Hacking khai thác mã lỗi MS10-046 (Phần 2)r 
+Bài 37: System Hacking khai thác mã lỗi MS14-017 (Phần 1)
+Bài 38: System Hacking khai thác mã lỗi MS14-017 (Phần 2)
+Bài 39: Tổng kết chương
+
+Phần 7:
+Phần 3:
+Bài 59: Hướng dẫn sử dụng BurSuite Cơ bản
+Bài 60: Error Base SQL Injection (Phần 1)
+Bài 61:  Error Base SQL Injection (Phần 2)
+Bài 62: Error Base SQL Injection (Phần 3)
+Bài 63: Blind SQL Injection Boolean (Phần 1)
+Bài 64: Blind SQL Injection Boolean (Phần 2)
+Bài 65: Blind SQL Injection Boolean (Phần 3)
+Bài 66: Cross Site Scripting (Phần 1)
+Bài 67:  Cross Site Scripting (Phần 2)
+Bài 68: Cross Site Scripting (Phần 3)
+Bài 69:  Upload (Phần 1)
+Bài 70:  Upload (Phần 2)
